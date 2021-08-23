@@ -10,7 +10,7 @@ const height = canvas.height = window.innerHeight;
 
 
 const img = new Image();
-img.src="../assets/images/NixPic.jpg";
+img.src="mercy.jpg";
 
 dDown = false;
 
