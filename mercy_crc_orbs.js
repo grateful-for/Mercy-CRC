@@ -12,7 +12,7 @@ const height = canvas.height = window.innerHeight;
 const img = new Image();
 img.src='Mercy.jpg';
 
-dDown = false;
+dDown = true;
 
 
 // key down event
