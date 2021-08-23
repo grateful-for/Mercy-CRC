@@ -18,7 +18,7 @@ dDown = false;
 // key down event
 document.addEventListener("keydown", keyDownHandler, false);
 function keyDownHandler(e) {
-    if(e.which  == 74) {
+    if(e.which  == 77) {
       //https://keycode.info/
       // turn on or off
         dDown = !dDown;
