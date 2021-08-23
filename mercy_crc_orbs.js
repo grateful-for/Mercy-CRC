@@ -10,7 +10,7 @@ const height = canvas.height = window.innerHeight;
 
 
 const img = new Image();
-img.src="Mercy.jpg";
+img.src='Mercy.jpg';
 
 dDown = false;
 
